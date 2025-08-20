@@ -1,4 +1,0 @@
-Host: 182.176.222.252 (www.giki.edu.pk)
-State: up
-Port: 80	Service: http
-Port: 443	Service: https
