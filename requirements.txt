@@ -1,4 +1,0 @@
-PyQt5==5.15.9
-python-nmap==0.6.4
-requests==2.31.0
-python-whois==0.7.3
